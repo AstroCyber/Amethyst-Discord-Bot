@@ -1,0 +1,82 @@
+{"items": {
+  "StarterPack": {
+    "img": "",
+    "cat": "LootBox-Non",
+    "trade": 10000,
+    "sell": 6000,
+    "drop": {
+      "BankSpace": 1,
+      "Shield": 1,
+      "Luck": 1,
+      "StarterTag": 1}},
+  "BankSpace": {
+    "img": "https://i.pinimg.com/originals/55/86/c2/5586c2dfea73b8957181e76aec8afdbb.gif",
+    "cat": "Usable-Buyable",
+    "Space": 1000,
+    "cost": 1500,
+    "trade": 1300,
+    "sell": 1000,
+    "rare": "Ultra-Common"
+  },
+  "Shield": {
+    "img": "",
+    "cat": "Usable-Buyable",
+    "usage": 1,
+    "cost": 10000,
+    "trade": 9000,
+    "sell": 7500,
+    "rare": "Common"
+  },
+  "Luck": {"img": "",
+    "cat": "AutoUse-Non",
+    "usage": 1},
+  "Tags": {
+    "StarterTag": {
+      "img": "",
+      "cat": "Tag-Non",
+      "daily": "True",
+      "weekly": "False",
+      "monthly": "False",
+      "yearly": "False"
+    },
+    "AdvanceTag": {
+      "img": "",
+      "cat": "Tag-Non",
+      "daily": "True",
+      "weekly": "True",
+      "monthly": "False",
+      "yearly": "False"
+    }
+  },
+  "BlackHole Dust": {
+    "img": "",
+    "cat": "Usable-Non",
+    "usage": 100000,
+    "trade": 90000,
+    "sell": 78000,
+    "rare": "Epic"
+  },
+  "AmethystShards": {
+    "img": "",
+    "cat": "Craftable-Non",
+    "craft": "AmethystGem",
+    "quantity": "1:100",
+    "trade": 1000,
+    "sell": 750,
+    "rare": "Unique-Rare"
+  },
+  "NoobsCrown": {
+    "img": "",
+    "cat": "Collectable-Non",
+    "trade": 1000000,
+    "sell": 1000,
+    "rare": "Ultra-Rare"
+  },
+  "AmethystGem": {
+    "img": "",
+    "cat": "Trade-Buyable-A",
+    "trade": 130000,
+    "sell": 100,
+    "rare": "Rainbow-Rare"
+  }
+}}

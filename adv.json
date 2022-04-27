@@ -1,0 +1,38 @@
+{"events": {
+  "BlackHole": {
+    "msg": "You Found A Black Hole - Hope You Dont Get Sucked In!!",
+    "msg2": "`-` You Are Getting Sucked In Fast!!",
+    "won": "`+` You Got Some BlackHole Dust",
+    "foot": "Fast Type `run` To Escape",
+    "op": "run",
+    "color": "r",
+    "color2": "g",
+    "item": "BlackHole Dust",
+    "amt1": 0,
+    "amt2": 1
+  },
+  "PlanetBlast": {
+    "msg": "You Just Saw A Alien Blast A Planet In Front Of Your Eyes!!",
+    "msg2": "`-` Non Of Our Business Any Way",
+    "won": "None",
+    "foot": "Nothing Interesting Happen :(",
+    "op": "None",
+    "color": "r",
+    "color2": "r",
+    "item": "None",
+    "amt": 1,
+    "amt2": 1
+  },
+  "AmethystCloud": {
+    "msg": "WOAH, You Saw A **`AMETHYST CLOUD`** OMG !!",
+    "msg2": "`+` You Just Collected 100 Amethyst Shards",
+    "won": "`+` You Collected 250 Amethyst Shards !!",
+    "foot": "Fast Type `Collect` To Collect More Shards",
+    "op": "None",
+    "color": "g",
+    "color2": "g",
+    "item": "AmethystShards",
+    "amt1": 100,
+    "amt2": 150
+  }
+}}
